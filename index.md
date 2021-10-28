@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Homepages
+
+阿伟，又在刷视频哦，休息一下吧！去打个排位好不好！
 
 You can use the [editor on GitHub](https://github.com/sun-yd/sun-yd.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
