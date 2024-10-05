@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Yadong Sun <br> 孙亚东"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Changchun"
+  bio              : "CS major master student."
+  location         : "Changchun, China"
   employer         : "Jilin University"
   uri              : # URL
   email            : "sunyd22@mails.jlu.edu.cn" 
@@ -37,14 +37,14 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Yadong-Sun-6"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
-  kaggle           : # Username  
+  github           : sun-yd
+  kaggle           : # Username 
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
