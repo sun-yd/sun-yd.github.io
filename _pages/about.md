@@ -22,7 +22,7 @@ Research Outputs
 <br>
 <u>Yadong Sun</u>, Xiaofeng Cao, Yu Wang, Wei Ye, Jingcai Guo, Qing Guo
 <br>
-NeurIPS'24, Vancouver
+NeurIPS'2024, Vancouver
 </li>
 
 <li>
@@ -75,7 +75,7 @@ Service
 ------
 
 <p style="text-align: justify;">
-📝 ECML2024, Vilnius, Reviewer
+📝 ECML'2024, Vilnius, Reviewer
 <br>
 👨‍🏫 2021/2022 semester 2, Pattern Recognition and Machine Learning, TA
 <br>

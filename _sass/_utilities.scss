@@ -200,6 +200,18 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
+  .fa-location-dot{
+    color: $mapdot-color;
+  }
+
+  .fa-envelope{
+    color: $email-color;
+  }
+
+  .fa-building-columns{
+    color: $building-color;
+  }
+
   .fa-bluesky,
   .fa-bluesky-square {
     color: $bluesky-color;
@@ -315,6 +327,11 @@ body:hover .visually-hidden button {
   .fa-xing,
   .fa-xing-square {
     color: $xing-color;
+  }
+
+  .fa-researchgate,
+  .fa-researchgate-square {
+    color: $researchgate-color;
   }
 }
 
