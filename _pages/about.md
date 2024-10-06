@@ -17,19 +17,23 @@ Research Outputs
 ------
 
 <p style="text-align: justify;">
-1. Geometry Awakening: Cross-Geometry Learning Exhibits Superiority over Individual Structures
+<ol>
+<li> <b>Geometry Awakening: Cross-Geometry Learning Exhibits Superiority over Individual Structures</b>
 <br>
- &emsp;<u>Yadong Sun</u>, Xiaofeng Cao, Yu Wang, Wei Ye, Jingcai Guo, Qing Guo
+<u>Yadong Sun</u>, Xiaofeng Cao, Yu Wang, Wei Ye, Jingcai Guo, Qing Guo
 <br>
- &emsp;NeurIPS'24, Vancouver
+NeurIPS'24, Vancouver
+</li>
+
+<li>
+<span style="color: grey;">
+<b><i>A paper on cross-geometric dynamic link prediction. </i></b></span>
 <br>
+<u>Yadong Sun</u>, Xiaofeng Cao, Yi Chang
 <br>
-2. <span style="color: grey;"><i>A paper on cross-geometric dynamic link prediction. </i></span>
-<br>
- &emsp;<u>Yadong Sun</u>, Xiaofeng Cao, Yi Chang
- <br>
- &emsp;<span style="color: grey;"><i>(under a double-blind review)</i></span>
- <br>
+<span style="color: grey;"><i>(under a double-blind review)</i></span>
+</li>
+</ol>
 </p>
 
 Project Experiences
@@ -56,13 +60,13 @@ Awards
 ------
 
 <p style="text-align: justify;">
-💴 National Encouragement Scholarship
+🏆 National Encouragement Scholarship
 <br>
-💴 Excellent Graduates in Shanghai
+🏆 Excellent Graduates in Shanghai
 <br>
-💴 Shanghai Scholarship
+🏆 Shanghai Scholarship
 <br>
-💴 SITC Scholarship
+🏆 SITC Scholarship
 <br>
 🏅 Datang Cup Shanghai City First Prize
 </p>
@@ -73,7 +77,7 @@ Service
 <p style="text-align: justify;">
 📝 ECML2024, Vilnius, Reviewer
 <br>
-🤓 2021/2022 semester 2, Pattern Recognition and Machine Learning, TA
+👨‍🏫 2021/2022 semester 2, Pattern Recognition and Machine Learning, TA
 <br>
-🤓 2022/2023 semester 2, Pattern Recognition and Machine Learning, TA
+👨‍🏫 2022/2023 semester 2, Pattern Recognition and Machine Learning, TA
 </p>
