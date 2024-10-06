@@ -39,22 +39,22 @@ NeurIPS'24, Vancouver
 Project Experiences
 ------
 
-<p style="text-align: justify;">
-<ul>
-<li> Research on Masked Face Recognition System Based on Deep Learning
-<br>
-  Developed a facial recognition system for masked faces using YOLOv5 for detection and FaceNet for feature extraction. It converges faster with a 4.12% mAP improvement. Switching from Inception ResNet v1 to MobileNet reduced parameters by 85% and computational cost by 80%, while the CBAM module boosted accuracy by 1%.</li>
 
-<li> College Student Innovation and Entrepreneurship Assistant APP
+<ul>
+<li> <p style="text-align: justify;"><b>Research on Masked Face Recognition System Based on Deep Learning</b>
+<br>
+  Developed a facial recognition system for masked faces using YOLOv5 for detection and FaceNet for feature extraction. It converges faster with a 4.12% mAP improvement. Switching from Inception ResNet v1 to MobileNet reduced parameters by 85% and computational cost by 80%, while the CBAM module boosted accuracy by 1%.</p></li>
+
+<li> <p style="text-align: justify;"><b>College Student Innovation and Entrepreneurship Assistant APP</b>
   <br>
-  Developed an mobile app using Android Studio to assist college students in participating in innovation and entrepreneurship activities. The app includes features such as information browsing, community posting and interaction, and expert search. Visualization implemented using <i>echarts</i>. The server environment uses <i>Linux+Apache+MySQL+PHP</i>.</li>
-<li> Open-Source Project NCNN Practice of Tencent
+  Developed an mobile app using Android Studio to assist college students in participating in innovation and entrepreneurship activities. The app includes features such as information browsing, community posting and interaction, and expert search. Visualization implemented using <i>echarts</i>. The server environment uses <i>Linux+Apache+MySQL+PHP</i>.</p></li>
+<li> <p style="text-align: justify;"><b>Open-Source Project NCNN Practice of Tencent</b>
   <br>
   Implement logsoftmax and logsigmoid operators, and develop a mathematical function library without dependencies.
   <br>
-  Mentor: <a href="https://github.com/nihui">Ni Hui</a>, Research Expert at YouTu Lab, Tencent</li>
+  Mentor: <a href="https://github.com/nihui">Ni Hui</a>, Research Expert at YouTu Lab, Tencent</p></li>
 </ul>
-</p>
+
 
 Awards
 ------
