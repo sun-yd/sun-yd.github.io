@@ -77,7 +77,7 @@ Awards
 <p style="text-align: justify;">
 🏆 National Encouragement Scholarship
 <br>
-🏆 Excellent Graduates in Shanghai
+🏆 Outstanding Graduate of Shanghai
 <br>
 🏆 Shanghai Scholarship
 <br>
