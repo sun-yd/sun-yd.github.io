@@ -16,7 +16,7 @@ I am currently a third-year master student majoring in computer science and tech
 News
 ------
 <ul>
-<li> [2024.11] Give a talk at MLA'2024 (China Symposium on Machine Learning and Applications).</li>
+<li> [2024.11] Give a talk at <a href="https://mla2024.bdaa.pro/2024/poster">MLA'2024</a>.</li>
 <li> [2024.11] Awarded the National Scholarship for Graduate Students.</li>
 <li> [2024.09] One paper accepted to NeurIPS'2024. </li>
 </ul>
