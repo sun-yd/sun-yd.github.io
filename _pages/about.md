@@ -76,11 +76,21 @@ Awards
 ------
 
 <p style="text-align: justify;">
+🏆 National Scholarship for Graduate Students
+<br>
 🏆 National Encouragement Scholarship
 <br>
 🏆 Outstanding Graduate of Shanghai
 <br>
+🏆 Graduate Scholarship of Jilin University
+<br>
+🏆 Jilin University Graduate Scholarship (First Class)
+<br>
+🏆 Excellent Graduate Student of Jilin University
+<br>
 🏆 Shanghai Scholarship
+<br>
+🏆 Xiaomi Scholarship
 <br>
 🏆 SITC Scholarship
 <br>
