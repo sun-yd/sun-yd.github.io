@@ -13,6 +13,14 @@ I am currently a third-year master student majoring in computer science and tech
 <span style="color: red;"> I am actively looking for 2025 fall Phd position, I would greatly appreciate any relevant information you might be able to <a href="mailto:sunyd22@mails.jlu.edu.cn">share</a>. </span>
 </p>
 
+News
+------
+<ul>
+<li> [2024.11] Give a talk at MLA'2024 (China Symposium on Machine Learning and Applications).</li>
+<li> [2024.11] Awarded the National Scholarship for Graduate Students.</li>
+<li> [2024.09] One paper accepted to NeurIPS'2024. </li>
+</ul>
+
 Research Outputs
 ------
 
